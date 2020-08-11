@@ -1,2 +1,1 @@
-<h1>Welcome to Simple DevOps Project!!</h1>
-<marquee>Done :)</marquee>
+<h1>Kubernetes deployment in a Test Env!!</h1>
